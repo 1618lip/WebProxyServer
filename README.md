@@ -156,7 +156,7 @@ This project successfully implements a basic web proxy with caching and POST sup
 
 ---
 
-**📌 Author:** [Your Name]  
-**📅 Date:** [Project Submission Date]
+**📌 Author:** Philip Pincencia, Genaro Salazar Ruiz
+**📅 Date:** February 14, 2025
 
 
