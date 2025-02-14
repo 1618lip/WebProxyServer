@@ -148,7 +148,7 @@ while True:
 - A fetched webpage through the proxy.
  ![Fetched Webpage](google_get.png)
 
-- Stress test of the size 10 backlog.
+- Stress test of the size 10 backlog provided by Apache.
 ![Stress Test](tcp_stress.png)
 
 
