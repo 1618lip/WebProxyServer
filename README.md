@@ -140,16 +140,16 @@ while True:
 ## Demonstration and Testing
 ### 📸 Screenshots
 - [ ] Terminal output while the proxy is running.
- ![Terminal output](proxy_images/proxy_running.png)
+ ![Terminal output](proxy_running.png)
       
 - [ ] Successful cache hit.
- ![Cache Hit](proxy_images/cache_hir.png)
+ ![Cache Hit](cache_hir.png)
       
 - [ ] A fetched webpage through the proxy.
- ![Fetched Webpage](proxy_images/google_get.png)
+ ![Fetched Webpage](google_get.png)
 
 - [ ] Stress test of the size 10 backlog.
-![Stress Test](proxy_images/tcp_stress.png)
+![Stress Test](tcp_stress.png)
 
 
 ### 📹 Video Demonstration
