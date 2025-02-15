@@ -153,7 +153,7 @@ while True:
 
 
 ### 📹 Video Demonstration
-- [ ] Upload a demo video to Google Drive or Dropbox and provide a link.
+- Link: https://youtu.be/2j09PMlq2jg 
 
 ---
 
